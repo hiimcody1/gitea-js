@@ -14,6 +14,9 @@ The major and minor version of this library is mapped to the version of the Gite
 
 | Gitea-js | Gitea |
 | -------- | ----- |
+| 1.26.x   | 1.26  |
+| 1.25.x   | 1.25  |
+| 1.24.x   | 1.24  |
 | 1.23.x   | 1.23  |
 | 1.22.x   | 1.22  |
 | 1.21.x   | 1.21  |
